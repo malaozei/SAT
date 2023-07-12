@@ -9,3 +9,4 @@
 ![image](https://github.com/malaozei/SAT/assets/94264539/69d8af28-2253-4bb0-837e-6cde63b05ffc)
 ![image](https://github.com/malaozei/SAT/assets/94264539/1b78a24e-d905-43bf-9485-35243d0b00d3)
 ![image](https://github.com/malaozei/SAT/assets/94264539/0258caa7-61b9-4102-99f4-135697184658)
+# 使用方法：直接运行该cpp文件即可。
